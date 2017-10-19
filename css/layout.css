@@ -78,7 +78,7 @@ html,h1,h2,h3,h4,h5,h6,p,span,a{
 
  /************************關於**************************/	  
  #about {
-	 background: url(../images/about-bg.jpg)no-repeat center fixed;
+	 background: url(../../plant%20house/images/about-bg.jpg)no-repeat center fixed;
 	 height: 400px;
 	 margin-top: 150px;
 	 }
