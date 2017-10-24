@@ -71,15 +71,20 @@ html,h1,h2,h3,h4,h5,h6,p,span,a{
 	 display: flex;
 	 flex-wrap: wrap;
 	 }
-.main-content h1{
+.main-content display-4{
 	margin-top:30px;
 	margin-bottom:30px;
 	}
 
  /************************關於**************************/	  
  #about {
-	 background: url(../../plant%20house/images/about-bg.jpg)no-repeat center fixed;
+	 /*background: url(../images/about-bg.jpg)no-repeat center fixed;
 	 height: 400px;
-	 margin-top: 150px;
+	 margin-top: 150px;*/
 	 }
+ #about .about-main p{
+	 color: #414141;
+	 letter-spacing: 0.2rem;
+	 
+	 }	 
  
