@@ -82,7 +82,8 @@ html,h1,h2,h3,h4,h5,h6,p,span,a{
 	 height: 400px;
 	 margin-top: 150px;*/
 	 }
- #about .about-main p{
+	 
+ #about .about-main .display-4,p{
 	 color: #414141;
 	 letter-spacing: 0.2rem;
 	 
