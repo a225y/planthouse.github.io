@@ -78,14 +78,31 @@ html,h1,h2,h3,h4,h5,h6,p,span,a{
 
  /************************關於**************************/	  
  #about {
-	 /*background: url(../images/about-bg.jpg)no-repeat center fixed;
+	 background: url(../images/door.png)no-repeat right 100% ;
 	 height: 400px;
-	 margin-top: 150px;*/
+	 margin-top: 150px;
 	 }
-	 
- #about .about-main .display-4,p{
+ #about .about-main .display-4,p,h2{
 	 color: #414141;
 	 letter-spacing: 0.2rem;
+	 }	 
+ #about .about-main .sen{
+	 width: 20px;
+	 height:2px;
+	 border: #434343 solid;
+	 padding-left: 3px;
+	 }
+ #about .about-main .btn{
+	 text-align: center;
+	 color: #FFF;
+	 width:120px;
+	 background: #000;
+	 transition:ease-in-out 0.5s;
+	 }
+ #about .about-main .btn:hover{
+	 text-align: center;
+	 color: #000;
+	 width:120px;
+	 background: #FAFAFA;
 	 
 	 }	 
- 
